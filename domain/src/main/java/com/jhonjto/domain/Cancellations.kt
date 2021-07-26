@@ -1,0 +1,8 @@
+package com.jhonjto.domain
+
+data class Cancellations(
+    val excluded: Excluded? = null,
+    val period: String? = null,
+    val rate: Double? = null,
+    val value: Int? = null
+)

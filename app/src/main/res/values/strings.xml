@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MercadoLibre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Buscar</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="condici_n">Condición</string>
+    <string name="m_todo_de_pago">Método de Pago</string>
+    <string name="precio">Precio</string>
+    <string name="imagen_previa">Imagen previa</string>
+    <string name="nombre_producto">Nombre Producto</string>
+    <string name="id">Id</string>
+    <string name="garantia">Garantia</string>
+</resources>
